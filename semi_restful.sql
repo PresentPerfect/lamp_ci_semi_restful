@@ -1,1 +1,0 @@
-SELECT * FROM semi_restful.products;
